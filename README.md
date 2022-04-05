@@ -54,3 +54,14 @@ else:
      st.write('Goodbye')
 ~~~
 ![](./img/day3.png)
+
+#  Day 4
+- Construir app con Ken Jee
+
+https://www.youtube.com/watch?v=Yk-unX4KnV4
+~~~
+pip install plotly      
+~~~
+
+- Dataset
+https://www.kaggle.com/datasets/kenjee/ken-jee-youtube-data
