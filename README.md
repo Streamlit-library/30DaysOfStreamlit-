@@ -29,5 +29,14 @@ streamlit hello
 ![](./img/day1.png)
 
 # Day 2
+- Escribir las siguientes línea de código 
+~~~python
+import streamlit as st
 
-
+st.write('Hello world!')
+~~~
+- Ejecutar:
+~~~
+streamlit run streamlit_app.py
+~~~
+![](./img/day2.png)
