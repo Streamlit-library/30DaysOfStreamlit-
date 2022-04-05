@@ -40,3 +40,17 @@ st.write('Hello world!')
 streamlit run streamlit_app.py
 ~~~
 ![](./img/day2.png)
+
+# Day 3
+- st.button
+~~~python
+import streamlit as st
+
+st.header('My first button')
+
+if st.button('Say hello'):
+     st.write('Why hello there')
+else:
+     st.write('Goodbye')
+~~~
+![](./img/day3.png)
